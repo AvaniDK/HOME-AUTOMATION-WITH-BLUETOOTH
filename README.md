@@ -83,3 +83,5 @@ While the simulation is accurate in terms of logic, it lacks the actual wireless
 This Bluetooth-controlled home automation project serves as a practical introduction to wireless embedded systems. Using the Serial Monitor in place of actual Bluetooth hardware allows for a theoretical yet functional demonstration of the system's control logic. The project is scalable, easy to implement, and a valuable foundation for more complex smart home solutions.
 
 # OUTPUT 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/50884b13-426d-4f99-a1a4-35485c89276b" />
