@@ -14,8 +14,6 @@
 
 # TASK DESCRIPTION
 
-### Project Description
-
 ## Objective
 
 This project aims to design and simulate a Bluetooth-based home automation system that allows wireless control of electrical devices using serial communication. The goal is to demonstrate how embedded systems and wireless technologies can be integrated to build a smart home system that is simple, low-cost, and effective for basic applications.
